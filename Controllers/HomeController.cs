@@ -15,6 +15,8 @@ namespace pipelines_dotnet_core.Controllers
             //Just some random comments to check the Git Hub stuff
             return View();
             //checking again if the Pull Request cause sthe CI/CI build to execute
+            //need to create a new branch
+            
         }
 
         public IActionResult Privacy()
