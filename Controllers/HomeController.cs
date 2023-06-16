@@ -19,6 +19,7 @@ namespace pipelines_dotnet_core.Controllers
             //Disables the draft PR validation in the azure pipeline yaml file in Github repo
             //Uncommented the triggeres portion in the yaml file
             // trying again, why is this not working
+            //trying yet again
         }
 
         public IActionResult Privacy()
