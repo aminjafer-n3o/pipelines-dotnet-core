@@ -12,6 +12,7 @@ namespace pipelines_dotnet_core.Controllers
     {
         public IActionResult Index()
         {
+            //Just some random comments to check the Git Hub stuff
             return View();
         }
 
