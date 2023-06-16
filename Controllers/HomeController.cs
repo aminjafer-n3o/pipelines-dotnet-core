@@ -16,7 +16,7 @@ namespace pipelines_dotnet_core.Controllers
             return View();
             //checking again if the Pull Request cause sthe CI/CI build to execute
             //need to create a new branch
-            
+            //Disables the draft PR validation in the azure pipeline yaml file in Github repo
         }
 
         public IActionResult Privacy()
