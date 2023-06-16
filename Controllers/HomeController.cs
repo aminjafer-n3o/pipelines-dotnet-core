@@ -14,6 +14,7 @@ namespace pipelines_dotnet_core.Controllers
         {
             //Just some random comments to check the Git Hub stuff
             return View();
+            //some more changes just to check if it is working. And if it is good.
         }
 
         public IActionResult Privacy()
