@@ -8,11 +8,11 @@ trigger:
     include:
     - main
 
-#pr:
-#  branches:
-#    include:
-#    - main
-#  drafts: false
+pr:
+  branches:
+    include:
+    - main
+  drafts: false
 
 pool:
   vmImage: ubuntu-latest
