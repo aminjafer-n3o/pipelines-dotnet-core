@@ -14,8 +14,7 @@ namespace pipelines_dotnet_core.Controllers
         {
             //Just some random comments to check the Git Hub stuff
             return View();
-            //some more changes just to check if it is working. And if it is good.
-            //Making a branch to commit the changes beoifre merging.
+            //checking again if the Pull Request cause sthe CI/CI build to execute
         }
 
         public IActionResult Privacy()
