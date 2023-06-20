@@ -2,6 +2,8 @@ name: $(year:yyyy).$(month).$(dayOfMonth)$(rev:.r)
 
 trigger: none
 
+pr: none
+
 schedules:
   - cron: "0 0 * * *"
     displayName: "Nightly"
